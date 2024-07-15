@@ -1,0 +1,24 @@
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\bin\Debug\ShoeFactory.exe.config
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\bin\Debug\ShoeFactory.exe
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\bin\Debug\ShoeFactory.pdb
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.csprojAssemblyReference.cache
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.Interfaces.Home.frmHome.resources
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.Interfaces.Login.frmCreateAccount.resources
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.Interfaces.Login.frmUserLogin.resources
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.Properties.Resources.resources
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.csproj.GenerateResource.cache
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.csproj.CoreCompileInputs.cache
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.exe
+E:\Programming Projects\Visual Studio\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.pdb
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\bin\Debug\ShoeFactory.accdb
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\bin\Debug\ShoeFactory.exe.config
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\bin\Debug\ShoeFactory.exe
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\bin\Debug\ShoeFactory.pdb
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.Interfaces.Home.frmHome.resources
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.Interfaces.Login.frmCreateAccount.resources
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.Interfaces.Login.frmUserLogin.resources
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.Properties.Resources.resources
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.csproj.GenerateResource.cache
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.csproj.CoreCompileInputs.cache
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.exe
+E:\Programming Projects\Visual Studio\Version 2019\ShoeFactory\ShoeFactory\obj\Debug\ShoeFactory.pdb
